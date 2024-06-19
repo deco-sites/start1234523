@@ -1,0 +1,13 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "Sunset Glow"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
